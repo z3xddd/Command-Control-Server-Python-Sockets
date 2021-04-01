@@ -1,2 +1,3 @@
-<h3> Command-Control-Server-Python-Sockets </h3>
-Command and Control server com Python Sockets.
+<center><h3> Command Control Server </h3></center>
+
+<li>Command and Control server com Python Sockets.</li>
