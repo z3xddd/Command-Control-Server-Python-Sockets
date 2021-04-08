@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#
+# By: Israel Comazzetto dos Reis
+# Simple Command Control Server
 
 import socket
 import time
